@@ -1,5 +1,5 @@
 # Weakcrypt
-A public-key encryption utility with a hidden backdoor
+[![Build Status](https://travis-ci.org/maservant/Weakcrypt.svg?branch=master)](https://travis-ci.org/maservant/Weakcrypt)
 
 ## Description
 This software implements the Elliptic curve ElGamal encryption scheme as
