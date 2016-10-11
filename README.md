@@ -30,5 +30,5 @@ and post the source code of the decryption tool.
 This software uses no libraries except stdlib, stdio and math. It should be fairly
 simple to simply `cd` into the directory and run `make`.
 
-On Windows, just create a project in your favorite IDE and import the code.
-Alternatively, this compiles quite well under Cygwin.
+The inline assembly is GNU-style, and the program reads from `/dev/urandom`.
+If you're on Windows, you'll need to build with Cygwin to handle this.
