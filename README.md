@@ -19,8 +19,8 @@ not work properly, be easily crackable or leak data through side channels.
 
 ## Vulnerability
 Let's play a little game: I will post a file containing a Bitcoin P2SH script
-and the private keys that unlock its balance. The first guy who finds the weakness
-can decrypt the file, read the private keys, and claim the loot.
+and the private keys that unlock its balance. First to find the weakness
+decrypts the file, reads the private keys, and claims the loot.
 I will fund the address with 0.03 BTC (about $25 CAD at the time of writing).
 
 If the vulnerability is not found within 60 days, I will reclaim the coins
